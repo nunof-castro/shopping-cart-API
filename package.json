@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "sequelize": "^6.30.0",
+    "typeorm": "^0.3.12"
+  },
+  "name": "shopping_cart_microservice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
